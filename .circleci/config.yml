@@ -137,7 +137,7 @@ jobs:
           NODE_ENV: test
           AWS_XRAY_LOG_LEVEL: silent
           AWS_XRAY_CONTEXT_MISSING: LOG_ERROR
-      - image: mysql:5.7
+      - image: mysql:8.2@sha256:1773f3c7aa9522f0014d0ad2bbdaf597ea3b1643c64c8ccc2123c64afd8b82b1
         command:
           - mysqld
           - --sql_mode=NO_ENGINE_SUBSTITUTION
