@@ -54,7 +54,7 @@
     "knex": "2.4.2",
     "locutus": "2.0.16",
     "lodash": "4.17.21",
-    "luxon": "2.5.2",
+    "luxon": "3.4.4",
     "mysql2": "3.6.2",
     "nanoid": "3.3.6"
   },
@@ -71,7 +71,7 @@
     "@types/jest": "29.5.3",
     "@types/locutus": "0.0.6",
     "@types/lodash": "4.14.194",
-    "@types/luxon": "2.4.0",
+    "@types/luxon": "3.3.4",
     "@types/node": "18.16",
     "@types/sinon": "10.0.15",
     "@types/supertest": "2.0.12",
